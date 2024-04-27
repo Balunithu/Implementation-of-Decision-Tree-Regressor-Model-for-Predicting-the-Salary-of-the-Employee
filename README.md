@@ -1,5 +1,5 @@
-# Develop By : Naveen Kumar.T
-# RegisterNumber : 212223220067
+# Develop By : Nithya shree B
+# RegisterNumber : 212223220071
 # Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 
 ## AIM:
